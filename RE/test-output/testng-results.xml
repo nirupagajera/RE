@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-15T14:34:09 IST" name="Default suite" finished-at="2025-07-15T14:34:22 IST" duration-ms="13238">
+    <groups>
+    </groups>
+    <test started-at="2025-07-15T14:34:09 IST" name="Default test" finished-at="2025-07-15T14:34:22 IST" duration-ms="13238">
+      <class name="Savills.Data_Driven_Testing_2">
+        <test-method signature="demo_contact()[pri:1, instance:Savills.Data_Driven_Testing_2@5d0bf09b]" started-at="2025-07-15T14:34:09 IST" name="demo_contact" finished-at="2025-07-15T14:34:22 IST" duration-ms="13196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo_contact -->
+      </class> <!-- Savills.Data_Driven_Testing_2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
